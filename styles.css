@@ -1,20 +1,62 @@
 h1 {
   font-family: Arial;
-  color: green;
+  font-style: bold;
+  font-size: 50px;
+  color:  white;
+  text-align: center;
   
-  color: #ff0000; 
+}
+.header {
+  background-color: #543838;
+   font-family: Arial;
+  font-size: 20px;
+  font-style: italic;
+  padding: 20px;
+  text-align: center;
+}
+body {
+  background-color: light grey;
+  color: white;
+  text-align: center;
+}
+
+{
+
+<div class="Chocolate Crinkles"> 
+  font-family:
+text-align: center;
+color: orange;
+width:60%;
+}
+ 
+h2 {
+  font-family: "Gill Sans Extrabold", sans-serif;
+  
 }
 
 h4 {
   margin-bottom: 0;
+  font-family: times new roman;
+  font-size: 35px;
+  font-style: bold;
+  color: orange;
+ 
+ 
 }
 
 ul, ol {
   margin-top: 0;
+  color: white;
+  text-align: center;
+  list-style-position: inside;
+  font-size: 20px;
+}
+ 
 }
 
 .copyright {
-  font-family: Arial;
-  font-size: 9px;
+  font-family: Times new roman;
+  font-size: 15px;
   font-style: italic;
+  
 }
